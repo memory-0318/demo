@@ -1,1 +1,1 @@
-用於說明minikube操作說明的專案
+用於說明minikube操作說明
